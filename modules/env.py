@@ -6,5 +6,5 @@ from environs import Env
 env = Env()
 env.read_env()
 
-TOKEN: str = env.str("TOKEN")
-DONATE_LINK: str = env.str("DONATE_LINK")
+TOKEN: str = env.str("6669439750:AAHRxTyJzVfSd4YuacQoR3fRNeplm0zHZsw")
+DONATE_LINK: str = env.str("http://t.me/CryptoBot?start=IVCecqvsrUlt")
